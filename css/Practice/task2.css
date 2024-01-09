@@ -1,0 +1,31 @@
+*{
+    width: 100%;
+    margin: 0;
+}
+
+h1{
+    padding: 5px;
+    text-align: center;
+    text-decoration: overline;
+    font-style: italic;
+}
+
+p{
+    color: darkgreen;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    border: 3px solid cadetblue;
+    border-radius: 3px;
+}
+
+li{
+    text-align: center;
+    border: 3px solid pink;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 4px;
+}

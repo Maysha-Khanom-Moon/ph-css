@@ -1,0 +1,15 @@
+header{
+    height: 500px;
+    width: 100%;
+
+    /* background-image: url(https://img.freepik.com/free-vector/sticker-template-with-face-old-woman-emoji-icon_1308-58228.jpg); */
+
+    /* root dir er ek level upor theke file collection
+        here, root dir is styles folder    
+    */
+    background-image: url("../moon.jpg");
+
+    /* background-repeat: no-repeat; */
+
+    background-size: 250px;
+}

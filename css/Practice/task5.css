@@ -1,0 +1,53 @@
+*{
+    width: 100%;
+    margin: 0;
+}
+
+
+div{
+    width: 80%;
+    text-align: center;
+    margin: 0 7%;
+}
+
+button{
+    padding: 2%;
+    margin: 30px;
+}
+
+#first{
+    display: inline;
+    color: red;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+#second{
+    display: block;
+    color: blue;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+#third{
+    display: inline-block;
+    color: green;
+    border: 3px solid black;
+    margin: 10px;
+    width: 100px;
+}
+
+#none{
+    display: none;
+}
+
+#hidden{
+    visibility: hidden;
+}
+
+p{
+    border: 3px solid cadetblue;
+    padding: 2%;
+    margin: 15px;
+    box-shadow: 3px 3px 5px 5px pink;
+}

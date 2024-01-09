@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 6px;
+    padding: 10px;
+}
+
+#first{
+    border: 3px solid rgb(6, 6, 41);
+    box-shadow: 5px 5px 10px 5px blue;
+    margin-bottom: 20px;
+}
+
+#second{
+    border: 3px solid rgb(96, 2, 2);
+    box-shadow: 5px 5px 10px 5px darkred;
+}

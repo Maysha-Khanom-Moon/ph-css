@@ -1,0 +1,12 @@
+*{
+    /* universal selector */
+    margin: 0;
+}
+
+#heading{
+    color: aqua;
+}
+
+.para{
+    color: blue;
+}

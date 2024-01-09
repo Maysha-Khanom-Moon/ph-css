@@ -1,0 +1,23 @@
+*{
+    width: 100%;
+    margin: 0;
+}
+
+div{
+    width: 100%;
+    border: 3px solid cadetblue;
+    background-image: url("../hasina-modi.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+h2, p{
+    margin: 3px;
+    border: 2px solid;
+    text-align: center;
+}
+
+h2{
+    background-color: burlywood;
+}
